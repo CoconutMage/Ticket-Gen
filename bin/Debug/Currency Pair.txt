@@ -1,0 +1,10 @@
+CADA0FX,2,.01,
+EURA0FX,1,.01,
+GBPA0FX,55,.01,
+AUDA0FX,7,.01,
+NZDA0FX,8,.01,
+JPYA0FX,9,.01,
+CHFA0FX,10,.01,
+>
+C:\Users\adamg_000\Downloads\+Trades
+C:\Users\adamg_000\Downloads\Destination

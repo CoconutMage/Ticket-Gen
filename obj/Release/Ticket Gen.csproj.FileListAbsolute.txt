@@ -1,0 +1,48 @@
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\bin\Release\Ticket Gen v1.exe.config
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\bin\Release\Ticket Gen v1.exe
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\bin\Release\Ticket Gen v1.pdb
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\obj\Release\Ticket_Gen.TicketGen.resources
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\obj\Release\Ticket_Gen.Properties.Resources.resources
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\obj\Release\Ticket Gen.csproj.GenerateResource.Cache
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\obj\Release\Ticket Gen.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\obj\Release\Ticket Gen v1.exe
+F:\Work\Stratagem\Ticket Gen\Ticket Gen\obj\Release\Ticket Gen v1.pdb
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\bin\Release\Ticket Gen v7.exe.config
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\bin\Release\Ticket Gen v7.exe
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\bin\Release\Ticket Gen v7.pdb
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\obj\Release\Ticket_Gen.TicketGen.resources
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\obj\Release\Ticket_Gen.Properties.Resources.resources
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\obj\Release\Ticket Gen.csproj.GenerateResource.Cache
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\obj\Release\Ticket Gen.csproj.CoreCompileInputs.cache
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\obj\Release\Ticket Gen v7.exe
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v7\obj\Release\Ticket Gen v7.pdb
+F:\Work\Stratagem\Ticket Gen v7.1\bin\Release\Ticket Gen v7.exe.config
+F:\Work\Stratagem\Ticket Gen v7.1\bin\Release\Ticket Gen v7.exe
+F:\Work\Stratagem\Ticket Gen v7.1\bin\Release\Ticket Gen v7.pdb
+F:\Work\Stratagem\Ticket Gen v7.1\obj\Release\Ticket Gen.csprojResolveAssemblyReference.cache
+F:\Work\Stratagem\Ticket Gen v7.1\obj\Release\Ticket_Gen.TicketGen.resources
+F:\Work\Stratagem\Ticket Gen v7.1\obj\Release\Ticket_Gen.Properties.Resources.resources
+F:\Work\Stratagem\Ticket Gen v7.1\obj\Release\Ticket Gen.csproj.GenerateResource.Cache
+F:\Work\Stratagem\Ticket Gen v7.1\obj\Release\Ticket Gen.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\Ticket Gen v7.1\obj\Release\Ticket Gen v7.exe
+F:\Work\Stratagem\Ticket Gen v7.1\obj\Release\Ticket Gen v7.pdb
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\bin\Release\Ticket Gen v8.0.exe.config
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\bin\Release\Ticket Gen v8.0.exe
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\bin\Release\Ticket Gen v8.0.pdb
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\obj\Release\Ticket Gen.csprojResolveAssemblyReference.cache
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\obj\Release\Ticket_Gen.TicketGen.resources
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\obj\Release\Ticket_Gen.Properties.Resources.resources
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\obj\Release\Ticket Gen.csproj.GenerateResource.cache
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\obj\Release\Ticket Gen.csproj.CoreCompileInputs.cache
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\obj\Release\Ticket Gen v8.0.exe
+C:\Users\StratTrade\Documents\Stratagem Ticket Gen\Ticket Gen v8.0\obj\Release\Ticket Gen v8.0.pdb
+F:\Work\Stratagem\Ticket Gen v8.0.1\bin\Release\Ticket Gen v8.0.exe.config
+F:\Work\Stratagem\Ticket Gen v8.0.1\bin\Release\Ticket Gen v8.0.exe
+F:\Work\Stratagem\Ticket Gen v8.0.1\bin\Release\Ticket Gen v8.0.pdb
+F:\Work\Stratagem\Ticket Gen v8.0.1\obj\Release\Ticket Gen.csprojResolveAssemblyReference.cache
+F:\Work\Stratagem\Ticket Gen v8.0.1\obj\Release\Ticket_Gen.TicketGen.resources
+F:\Work\Stratagem\Ticket Gen v8.0.1\obj\Release\Ticket_Gen.Properties.Resources.resources
+F:\Work\Stratagem\Ticket Gen v8.0.1\obj\Release\Ticket Gen.csproj.GenerateResource.Cache
+F:\Work\Stratagem\Ticket Gen v8.0.1\obj\Release\Ticket Gen.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\Ticket Gen v8.0.1\obj\Release\Ticket Gen v8.0.exe
+F:\Work\Stratagem\Ticket Gen v8.0.1\obj\Release\Ticket Gen v8.0.pdb
